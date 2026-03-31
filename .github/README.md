@@ -4,8 +4,6 @@
 </h1>
 <h4 align="center">A high-quality Counter-Strike 2 config built for gamers.</h4>
 
-# CFG CS2
-
 # Prerequisite Scancode Key
 https://wiki.libsdl.org/SDL3/SDL_Scancode
 
