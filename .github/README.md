@@ -53,5 +53,3 @@ launch option `+exec autoexec.cfg`
      \/
 
 
-## Binds
-![aichizuki autoexec binds](https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec_binds.png)
