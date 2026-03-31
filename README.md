@@ -1,3 +1,6 @@
+# CFG CS2
+
 https://wiki.libsdl.org/SDL3/SDL_Scancode
 
-launch option +exec autoexec.cfg -console
+# Launch Option Steam
+launch option `+exec autoexec.cfg -console`
