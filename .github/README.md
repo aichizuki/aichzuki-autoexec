@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/aichizuki/aichzuki-autoexec/archive/refs/heads/master.zip"><img src="https://raw.githubusercontent.com/aichizuki/aichzuki-autoexec/master/aichizuki_autoexec.png" alt="aichizuki Nvidia"></a>
+  <a href="https://github.com/aichizuki/aichzuki-autoexec/archive/refs/heads/master.zip"><img src="https://raw.githubusercontent.com/aichizuki/aichzuki-autoexec/refs/heads/master/arminc_autoexec.png" alt="aichizuki Nvidia"></a>
 </h1>
 <h4 align="center">A high-quality Counter-Strike 2 config built for gamers.</h4>
 
@@ -28,8 +28,6 @@ launch option `+exec autoexec.cfg`
 
 # Option Nvidia Control Panel 
 
-## Binds
-![ArminC AutoExec Binds](https://raw.githubusercontent.com/aichizuki/aichzuki-autoexec/refs/heads/master/arminc_autoexec.png)
 
 <p align="center">
   <a href="#installation">Installation</a> •
