@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="#installation">Installation</a> •
-  <a href="#symbols">Symbols</a> •
-  <a href="#binds">Binds</a> 
+  <a href="#symbols">Symbols</a>
 </p>
 
 ---
@@ -16,13 +15,13 @@
 <tr>
 <td>
   
-**ArminC AutoExec** is a high-quality _config_ for **Counter-Strike 2** that aims to improve the gameplay by enabling you to customize the game settings to your liking through its template system.
+**aichizuki autoexec** is a high-quality _config_ for **Counter-Strike 2** that aims to improve the gameplay by enabling you to customize the game settings to your liking through its template system.
 
 It comes filled with little optimizations such as **network capacity**, overall improving the gameplay for a wide variety of computers and players.
 
 Each and every one of the commands provided are **finely tuned**, enabling the game's full potential compared to default settings.
 
-![ArminC AutoExec Code](https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec_code.png)
+![aichizuki autoexec code](https://raw.githubusercontent.com/aichizuki/aichzuki-autoexec/refs/heads/master/.github/Template/Preview.png)
 <p align="right">
 <sub>(Preview)</sub>
 </p>
