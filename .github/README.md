@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="(https://github.com/aichizuki/aichzuki-autoexec/archive/refs/heads/master.zip)"><img src="(https://raw.githubusercontent.com/aichizuki/aichzuki-autoexec/master/arminc_autoexec.svg)" alt="aichizuki Nvidia"></a>
+  <a href="(https://github.com/aichizuki/aichzuki-autoexec/archive/refs/heads/master.zip)"><img src="(https://raw.githubusercontent.com/aichizuki/aichzuki-autoexec/d1751bfeee10d8adff1d7c8d4a8e60ccdb16cb4f/.github/Template/aichizuki_autoexec.svg)" alt="aichizuki Nvidia"></a>
 </h1>
 <h4 align="center">A high-quality Counter-Strike 2 config built for gamers.</h4>
 
