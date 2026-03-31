@@ -7,4 +7,4 @@ https://wiki.libsdl.org/SDL3/SDL_Scancode
 launch option `+exec autoexec.cfg`
 
 # Option Nvidia Control Panel 
-<img src="(https://github.com/aichizuki/aichzuki-autoexec/blob/master/.github/Template/First.png)" alt="ArminC AutoExec">
+<img src="(https://github.com/aichizuki/aichzuki-autoexec/blob/master/.github/Template/First.png)" alt="aichizuki autoexec">
