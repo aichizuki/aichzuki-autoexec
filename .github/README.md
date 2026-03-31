@@ -6,11 +6,8 @@
 
 <p align="center">
   <a href="#installation">Installation</a> •
-  <a href="#updating">Updating</a> •
-  <a href="#features">Features</a> •
   <a href="#symbols">Symbols</a> •
-  <a href="#binds">Binds</a> •
-  <a href="#credits">Credits</a> •
+  <a href="#binds">Binds</a> 
 </p>
 
 # Prerequisite Scancode Key
@@ -37,9 +34,18 @@ launch option `+exec autoexec.cfg`
 
 # Option Nvidia Control Panel 
 
-## Credits
+## Symbols
 
-| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/a_small.png)](https://github.com/ArmynC)  |
-|:------------------------------------------------------------------------------------------------------------------------:	|
-|                                                         **ArminC**                                                         | 
+      *: Multiple commands under a category
+     >>: Official description
+    <->: Analysis
+    <i>: Informal
+    <!>: Important
 
+     /\
+     ||: Select any float/decimal value within the provided range
+     \/
+
+
+## Binds
+![ArminC AutoExec Binds](https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec_binds.png)
