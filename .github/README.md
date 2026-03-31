@@ -35,6 +35,9 @@ launch option `+exec autoexec.cfg`
 # Option Nvidia Control Panel 
 
 ![aichizuki autoexec Nvidia1](https://raw.githubusercontent.com/aichizuki/aichzuki-autoexec/refs/heads/master/.github/Template/Color%20cs2.png)
+![aichizuki autoexec Nvidia2](https://raw.githubusercontent.com/aichizuki/aichzuki-autoexec/refs/heads/master/.github/Template/First.png)
+![aichizuki autoexec Nvidia3](https://raw.githubusercontent.com/aichizuki/aichzuki-autoexec/refs/heads/master/.github/Template/Second.png)
+![aichizuki autoexec Nvidia4](https://raw.githubusercontent.com/aichizuki/aichzuki-autoexec/refs/heads/master/.github/Template/Third.png)
 
 ## Symbols
 
