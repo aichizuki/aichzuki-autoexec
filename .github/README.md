@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip"><img src="https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec.svg" alt="ArminC AutoExec"></a>
+  <a href="(https://github.com/aichizuki/aichzuki-autoexec/archive/refs/heads/master.zip)"><img src="(https://raw.githubusercontent.com/aichizuki/aichzuki-autoexec/refs/heads/master/.github/Template/First.png)" alt="aichizuki Nvidia"></a>
 </h1>
 <h4 align="center">A high-quality Counter-Strike 2 config built for gamers.</h4>
 
