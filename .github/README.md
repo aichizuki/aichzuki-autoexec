@@ -4,6 +4,15 @@
 </h1>
 <h4 align="center">A high-quality Counter-Strike 2 config built for gamers.</h4>
 
+<p align="center">
+  <a href="#installation">Installation</a> •
+  <a href="#updating">Updating</a> •
+  <a href="#features">Features</a> •
+  <a href="#symbols">Symbols</a> •
+  <a href="#binds">Binds</a> •
+  <a href="#credits">Credits</a> •
+</p>
+
 # Prerequisite Scancode Key
 https://wiki.libsdl.org/SDL3/SDL_Scancode
 
@@ -30,16 +39,7 @@ launch option `+exec autoexec.cfg`
 
 ## Credits
 
-| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/a_small.png)](https://github.com/ArmynC)  | ![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/community.png)		|
-|:------------------------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------:	|
-|                                                         **ArminC**                                                         |                                            **The community**                                           |
+| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/a_small.png)](https://github.com/ArmynC)  |
+|:------------------------------------------------------------------------------------------------------------------------:	|
+|                                                         **ArminC**                                                         | 
 
-
-<p align="center">
-  <a href="#installation">Installation</a> •
-  <a href="#updating">Updating</a> •
-  <a href="#features">Features</a> •
-  <a href="#symbols">Symbols</a> •
-  <a href="#binds">Binds</a> •
-  <a href="#credits">Credits</a> •
-</p>
