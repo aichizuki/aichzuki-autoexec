@@ -23,7 +23,7 @@ https://wiki.libsdl.org/SDL3/SDL_Scancode
 > The binds system has changed. Instead of doing the name of the key, there are scancodes assigned per key.
         
 > [!NOTE]  
-> The crosshair is designed for a 1920x1080 resolution; in other case, the experience may vary.
+> The crosshair is designed for a 1440x1080 resolution; in other case, the experience may vary.
 
 # Launch Option Steam
 launch option `+exec autoexec.cfg`
