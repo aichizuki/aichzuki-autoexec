@@ -34,6 +34,8 @@ launch option `+exec autoexec.cfg`
 
 # Option Nvidia Control Panel 
 
+![aichizuki autoexec Nvidia1](https://raw.githubusercontent.com/aichizuki/aichzuki-autoexec/refs/heads/master/.github/Template/Color%20cs2.png)
+
 ## Symbols
 
       *: Multiple commands under a category
@@ -48,4 +50,4 @@ launch option `+exec autoexec.cfg`
 
 
 ## Binds
-![ArminC AutoExec Binds](https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec_binds.png)
+![aichizuki autoexec binds](https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec_binds.png)
