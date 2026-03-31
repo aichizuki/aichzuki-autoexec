@@ -1,4 +1,7 @@
-
+<h1 align="center">
+  <br>
+  <a href="https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip"><img src="https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec.svg" alt="ArminC AutoExec"></a>
+</h1>
 <h4 align="center">A high-quality Counter-Strike 2 config built for gamers.</h4>
 
 
@@ -11,10 +14,6 @@ https://wiki.libsdl.org/SDL3/SDL_Scancode
 launch option `+exec autoexec.cfg`
 
 # Option Nvidia Control Panel 
-<h1 align="center">
-  <br>
-  <a href="(https://github.com/aichizuki/aichzuki-autoexec/blob/master/.github/Template/First.png)"><img src="(https://github.com/aichizuki/aichzuki-autoexec/blob/master/.github/Template/First.png)" alt="aichizuki autoexec">
-</h1>
 
 <p align="center">
   <a href="#installation">Installation</a> •
