@@ -11,3 +11,17 @@ launch option `+exec autoexec.cfg`
   <br>
   <a href="(https://github.com/aichizuki/aichzuki-autoexec/blob/master/.github/Template/First.png)"><img src="(https://github.com/aichizuki/aichzuki-autoexec/blob/master/.github/Template/First.png)" alt="aichizuki autoexec">
 </h1>
+
+<p align="center">
+  <a href="#installation">Installation</a> •
+  <a href="#updating">Updating</a> •
+  <a href="#features">Features</a> •
+  <a href="#symbols">Symbols</a> •
+  <a href="#binds">Binds</a> •
+  <a href="#wiki">Wiki</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#support">Support</a> •
+  <a href="#sponsor">Sponsor</a> •
+  <a href="#license">License</a>
+</p>
