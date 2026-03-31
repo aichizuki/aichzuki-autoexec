@@ -29,7 +29,7 @@ launch option `+exec autoexec.cfg`
 # Option Nvidia Control Panel 
 
 ## Binds
-![ArminC AutoExec Binds](https://raw.githubusercontent.com/aichizuki/aichzuki-autoexec/master/aichizuki_autoexec.png)
+![ArminC AutoExec Binds](https://raw.githubusercontent.com/aichizuki/aichzuki-autoexec/refs/heads/master/arminc_autoexec.png)
 
 <p align="center">
   <a href="#installation">Installation</a> •
