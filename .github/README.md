@@ -33,5 +33,5 @@ launch option `+exec autoexec.cfg`
   <a href="#updating">Updating</a> •
   <a href="#features">Features</a> •
   <a href="#symbols">Symbols</a> •
-  <a href="#binds">Binds</a> •
+  <a href="#binds">Binds</a> 
 </p>
