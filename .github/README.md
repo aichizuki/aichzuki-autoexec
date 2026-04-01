@@ -21,7 +21,7 @@ It comes filled with little optimizations such as **network capacity**, overall 
 
 Each and every one of the commands provided are **finely tuned**, enabling the game's full potential compared to default settings.
 
-![aichizuki autoexec code](https://raw.githubusercontent.com/aichizuki/aichzuki-autoexec/refs/heads/master/.github/Template/Preview.png)
+![aichizuki autoexec code](https://raw.githubusercontent.com/aichizuki/aichzuki-autoexec/refs/heads/master/.github/Template/Previe.png)
 <p align="right">
 <sub>(Preview)</sub>
 </p>
