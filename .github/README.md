@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="#installation">Installation</a> •
-  <a href="#steam">Installation</a> •
-  <a href="#nvidia">Installation</a> •
+  <a href="#steam">Steam</a> •
+  <a href="#nvidia">Nvidia</a> •
   <a href="#symbols">Symbols</a>
 </p>
 
