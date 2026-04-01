@@ -6,6 +6,8 @@
 
 <p align="center">
   <a href="#installation">Installation</a> •
+  <a href="#steam">Installation</a> •
+  <a href="#nvidia">Installation</a> •
   <a href="#symbols">Symbols</a>
 </p>
 
@@ -47,10 +49,10 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 > [!NOTE]  
 > The crosshair is designed for a 1440x1080 resolution; in other case, the experience may vary.
  
-# Launch Option Steam
+## Steam
 launch option `+exec autoexec.cfg`
 
-# Option Nvidia Control Panel 
+## Nvidia
 
 ![aichizuki autoexec Nvidia1](https://raw.githubusercontent.com/aichizuki/aichzuki-autoexec/refs/heads/master/.github/Template/Color%20cs2.png)
 
